@@ -1,0 +1,11 @@
+        .div1 {
+            border: 5px outset blue;
+        }
+        .div2 {
+            font-size: large;
+            background-color: linen;
+        }
+        .div3 {
+            background-color: aquamarine;
+            position: fixed;
+        }
